@@ -44,24 +44,24 @@
 |   3 | [application](https://github.com/fishproteam/application) | [2022-07-12](https://github.com/kubernetes-sigs/application/pull/225) | [2022-10-07](https://github.com/fishproteam/application/pull/6)    | [7](https://github.com/fishproteam/application/pulls?q=is%3Apr+author%3AFish-pro) |
 |   4 | [kubernetes](https://github.com/kubernetes/kubernetes)    | [2021-04-02](https://github.com/kubernetes/kubernetes/pull/100778)    | [2022-07-26](https://github.com/kubernetes/kubernetes/pull/111429) | [3](https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3AFish-pro)   |
 |   5 | [istio](https://github.com/istio/istio)                   | [2022-10-18](https://github.com/istio/istio/pull/41487)               | [2022-10-19](https://github.com/istio/istio/pull/41516)            | [3](https://github.com/istio/istio/pulls?q=is%3Apr+author%3AFish-pro)             |
-|   6 | [argo-cd](https://github.com/argoproj/argo-cd)            | [2022-07-21](https://github.com/argoproj/argo-cd/pull/10075)          | [2022-07-21](https://github.com/argoproj/argo-cd/pull/10075)       | [1](https://github.com/argoproj/argo-cd/pulls?q=is%3Apr+author%3AFish-pro)        |
-|   7 | [zero-doc](https://github.com/zeromicro/zero-doc)         | [2021-02-01](https://github.com/zeromicro/zero-doc/pull/38)           | [2021-02-01](https://github.com/zeromicro/zero-doc/pull/38)        | [1](https://github.com/zeromicro/zero-doc/pulls?q=is%3Apr+author%3AFish-pro)      |
-|   8 | [website](https://github.com/karmada-io/website)          | [2022-10-21](https://github.com/karmada-io/website/pull/219)          | [2022-10-21](https://github.com/karmada-io/website/pull/219)       | [1](https://github.com/karmada-io/website/pulls?q=is%3Apr+author%3AFish-pro)      |
-|   9 | [community](https://github.com/istio/community)           | [2022-10-20](https://github.com/istio/community/pull/842)             | [2022-10-20](https://github.com/istio/community/pull/842)          | [1](https://github.com/istio/community/pulls?q=is%3Apr+author%3AFish-pro)         |
+|   6 | [website](https://github.com/karmada-io/website)          | [2022-10-21](https://github.com/karmada-io/website/pull/219)          | [2022-10-21](https://github.com/karmada-io/website/pull/219)       | [1](https://github.com/karmada-io/website/pulls?q=is%3Apr+author%3AFish-pro)      |
+|   7 | [community](https://github.com/istio/community)           | [2022-10-20](https://github.com/istio/community/pull/842)             | [2022-10-20](https://github.com/istio/community/pull/842)          | [1](https://github.com/istio/community/pulls?q=is%3Apr+author%3AFish-pro)         |
+|   8 | [argo-cd](https://github.com/argoproj/argo-cd)            | [2022-07-21](https://github.com/argoproj/argo-cd/pull/10075)          | [2022-07-21](https://github.com/argoproj/argo-cd/pull/10075)       | [1](https://github.com/argoproj/argo-cd/pulls?q=is%3Apr+author%3AFish-pro)        |
+|   9 | [zero-doc](https://github.com/zeromicro/zero-doc)         | [2021-02-01](https://github.com/zeromicro/zero-doc/pull/38)           | [2021-02-01](https://github.com/zeromicro/zero-doc/pull/38)        | [1](https://github.com/zeromicro/zero-doc/pulls?q=is%3Apr+author%3AFish-pro)      |
 | sum |                                                           |                                                                       |                                                                    |                                                                                56 |
 
 ## The repos I stared (random 10)
-| ID |                                   REPO                                    | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
-|----|---------------------------------------------------------------------------|------------|------------|--------------|
-|  1 | [kind](https://github.com/kubernetes-sigs/kind)                           | 2022-02-18 | Go         | 2022-12-28   |
-|  2 | [spiderpool](https://github.com/spidernet-io/spiderpool)                  | 2022-04-21 | Go         | 2022-12-27   |
-|  3 | [k9s](https://github.com/derailed/k9s)                                    | 2022-06-16 | Go         | 2022-12-29   |
-|  4 | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | 2022-09-27 | JavaScript | 2022-12-29   |
-|  5 | [application](https://github.com/fishproteam/application)                 | 2022-08-29 | Go         | 2022-10-06   |
-|  6 | [i18n-demo](https://github.com/Fish-pro/i18n-demo)                        | 2022-07-19 | Shell      | 2022-07-19   |
-|  7 | [pflag](https://github.com/spf13/pflag)                                   | 2020-09-28 | Go         | 2022-12-28   |
-|  8 | [qutebrowser](https://github.com/qutebrowser/qutebrowser)                 | 2019-02-17 | Python     | 2022-12-28   |
-|  9 | [gmssl](https://github.com/duanhongyi/gmssl)                              | 2020-12-01 | Python     | 2022-12-22   |
-| 10 | [gatekeeper](https://github.com/open-policy-agent/gatekeeper)             | 2022-10-12 | Go         | 2022-12-25   |
+| ID |                               REPO                                | STAREDDATE |  LAUGUAGE  | LATESTUPDATE |
+|----|-------------------------------------------------------------------|------------|------------|--------------|
+|  1 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit)               | 2022-03-24 | Swift      | 2022-12-28   |
+|  2 | [podset-operator](https://github.com/xcoulon/podset-operator)     | 2021-01-14 | Go         | 2022-07-18   |
+|  3 | [wrk](https://github.com/wg/wrk)                                  | 2021-11-04 | C          | 2022-12-29   |
+|  4 | [kubeflow](https://github.com/kubeflow/kubeflow)                  | 2022-05-20 | Jsonnet    | 2022-12-28   |
+|  5 | [beego](https://github.com/beego/beego)                           | 2019-11-13 | Go         | 2022-12-29   |
+|  6 | [DjangoUeditor3](https://github.com/andyzsf/DjangoUeditor3)       | 2019-05-03 | JavaScript | 2022-01-05   |
+|  7 | [lighthouse](https://github.com/submariner-io/lighthouse)         | 2022-12-28 | Go         | 2022-12-28   |
+|  8 | [kubean](https://github.com/kubean-io/kubean)                     | 2022-08-17 | Go         | 2022-12-21   |
+|  9 | [Golang-100-Days](https://github.com/rubyhan1314/Golang-100-Days) | 2020-09-23 | Smarty     | 2022-12-28   |
+| 10 | [qutebrowser](https://github.com/qutebrowser/qutebrowser)         | 2019-02-17 | Python     | 2022-12-28   |
 
 <!--END_SECTION:my_github-->
